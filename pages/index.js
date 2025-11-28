@@ -6,7 +6,7 @@ export default function Home() {
     <main className="min-h-screen flex items-center justify-center bg-gray-50">
       <div className="text-center px-4">
         <h1 className="text-3xl sm:text-4xl font-bold mb-4">
-          Welcome to SkillEnd College Portal
+          Welcome to College Portal
         </h1>
         <p className="text-gray-600 mb-6 text-sm sm:text-base">
           View department details and faculty contact information.
